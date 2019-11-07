@@ -1,6 +1,6 @@
 <div class="list-group  supervisor-tasks">
   <a href="<?php echo base_url(); ?>trainee/practice_session" class="list-group-item list-group-item-action">Practice</a>
-  <a href="<?php echo base_url(); ?>trainee/" class="list-group-item list-group-item-action">Join Session</a>
+  <a href="<?php echo base_url(); ?>trainee/activity" class="list-group-item list-group-item-action">Join Session</a>
   <a href="<?php echo base_url(); ?>trainee/" class="list-group-item list-group-item-action">Notifications</a>
   <a href="<?php echo base_url(); ?>trainee/" class="list-group-item list-group-item-action">Edit Profile</a>
 </div>
