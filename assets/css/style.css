@@ -1,0 +1,27 @@
+.nav-main {
+    width: 200px;
+    text-align: center;
+}
+
+.nav-links {
+    width: 100px;
+    text-align: center;
+}
+
+.supervisor-tasks {
+    position: absolute;
+    top: 85px;
+    left: 20px;
+    width: 180px;
+}
+
+.profile-container {
+    position: absolute;
+    top: 85px;
+    left: 218px;
+    width: 800px;
+}
+
+.supervisor-data {
+    margin-left: 100px;
+}
