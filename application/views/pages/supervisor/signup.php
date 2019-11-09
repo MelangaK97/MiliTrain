@@ -10,6 +10,14 @@
       <input type="text" class="form-control" id="LastName" placeholder="Enter Last Name">
     </div>
     <div class="form-group">
+      <label for="LastName">Force</label>
+      <input type="text" class="form-control" id="LastName" placeholder="Enter Last Name">
+    </div>
+    <div class="form-group">
+      <label for="LastName">Position</label>
+      <input type="text" class="form-control" id="LastName" placeholder="Enter Last Name">
+    </div>
+    <div class="form-group">
       <label for="InputEmail1">Email address</label>
       <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter Email">
     </div>

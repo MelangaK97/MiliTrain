@@ -1,0 +1,1 @@
+<p>Details about the trainings should be here.</p>

@@ -23,6 +23,9 @@
                 <li class="nav-item nav-links">
                     <a class="nav-link" href="<?php echo base_url(); ?>trainee/about">About us</a>
                 </li>
+                <li class="nav-item nav-links">                    
+                    <a href="<?php echo base_url(); ?>trainee/notification" class="nav-link">Notifications</a>
+                </li>
                 <li class="nav-item dropdown nav-links">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Account</a>
                     <div class="dropdown-menu" >
